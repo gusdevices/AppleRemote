@@ -4,7 +4,7 @@ AppleRemote configuration file
 Abstract: the AppleRemote application allows to use the Apple Remote with application or system (Apple CPU) not supporting natively the Apple Remote.
 The AppleRemote application generates keystrokes from the Apple Remote keys.
 
-Keys generation depends on the topmost application. Keys are defined in 'Configuration.plist':
+Keys generation depends on the topmost application. Keys are defined in 'Configuration.plist' located in "/Applications/AppleRemote.app/Contents/Resources":
 
 "com.apple.Music" is the bundle identifier.
 
