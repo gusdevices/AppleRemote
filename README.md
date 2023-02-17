@@ -1,0 +1,2 @@
+# AppleRemote
+AppleRemote configuration file
